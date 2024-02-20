@@ -24,6 +24,7 @@ The package includes several features to simplify endpoint development, includin
     <PackageTags>REPR, Endpoints, Routes</PackageTags>
     <PackageReleaseNotes>YourREPRPackageName is a C# .NET 8 package designed to facilitate the implementation of the REPR design pattern. It provides four abstract classes for creating endpoints, two without authorization (EndpointsSync and EndpointsAsync), and two with authorization (AuthorizedEndpointsSync and AuthorizedEndpointsAsync). These classes offer a structured approach to defining endpoints, handling requests and responses, and integrating authorization using JWT tokens.</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Authors>Ahmed Hussain (huzcodes)</Authors>
   </PropertyGroup>
 	<ItemGroup>
 		<FrameworkReference Include="Microsoft.AspNetCore.App" />
