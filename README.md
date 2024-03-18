@@ -1,6 +1,6 @@
 # huzcodes.Endpoints
 
-huzcodes.Endpointsis is a C# .NET 8 package designed to facilitate the implementation of the REPR design pattern. It provides four abstract classes for creating endpoints, two without authorization ('**EndpointsSync**' and '**EndpointsAsync**'), and two with authorization ('**AuthorizedEndpointsSync**' and '**AuthorizedEndpointsAsync**'). These classes offer a structured approach to defining endpoints, handling requests and responses, and integrating authorization using JWT tokens.
+huzcodes.Endpoints is a C# .NET 8 package designed to facilitate the implementation of the REPR design pattern. It provides four abstract classes for creating endpoints, two without authorization ('**EndpointsSync**' and '**EndpointsAsync**'), and two with authorization ('**AuthorizedEndpointsSync**' and '**AuthorizedEndpointsAsync**'). These classes offer a structured approach to defining endpoints, handling requests and responses, and integrating authorization using JWT tokens.
 
 The package includes several features to simplify endpoint development, including support for:
 
